@@ -8,7 +8,6 @@ data/*
 !data/tfl_cycle_parking.json
 !data/town_centres.geojson
 !data/lsoa2021.zip
-!data/analysis_lsoa_snapshot_v2.csv
 scripts/__pycache__/
 scripts/
 *.pyc
